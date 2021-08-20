@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ygp2dwZnmq44vssOKZglO2rkZPf6B3HdFPa32q0LpwyH4D3mz04d+OL6PpqxzXZPvyQoYwlO9+MghJQVuTJeGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nonto\\Documents\\Wonga Core\\SendMessage\\SendMessage.Tests\\SendMessage.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nonto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nonto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\nonto\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\nonto\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\nonto\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\nonto\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\nonto\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

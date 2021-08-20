@@ -1,0 +1,17 @@
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.exe
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.deps.json
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.runtimeconfig.json
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.runtimeconfig.dev.json
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.dll
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\SendMessage.pdb
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.csproj.AssemblyReference.cache
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.AssemblyInfoInputs.cache
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.AssemblyInfo.cs
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.csproj.CoreCompileInputs.cache
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.csproj.CopyComplete
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.dll
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.pdb
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage\obj\Debug\netcoreapp3.1\SendMessage.genruntimeconfig.cache

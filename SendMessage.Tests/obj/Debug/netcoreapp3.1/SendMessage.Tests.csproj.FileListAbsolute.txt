@@ -1,0 +1,17 @@
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\bin\Debug\netcoreapp3.1\SendMessage.deps.json
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\bin\Debug\netcoreapp3.1\SendMessage.runtimeconfig.json
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\bin\Debug\netcoreapp3.1\SendMessage.runtimeconfig.dev.json
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\bin\Debug\netcoreapp3.1\SendMessage.exe
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\bin\Debug\netcoreapp3.1\SendMessage.Tests.deps.json
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\bin\Debug\netcoreapp3.1\SendMessage.Tests.dll
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\bin\Debug\netcoreapp3.1\SendMessage.Tests.pdb
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\bin\Debug\netcoreapp3.1\SendMessage.dll
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\bin\Debug\netcoreapp3.1\SendMessage.pdb
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\obj\Debug\netcoreapp3.1\SendMessage.Tests.csproj.AssemblyReference.cache
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\obj\Debug\netcoreapp3.1\SendMessage.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\obj\Debug\netcoreapp3.1\SendMessage.Tests.AssemblyInfoInputs.cache
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\obj\Debug\netcoreapp3.1\SendMessage.Tests.AssemblyInfo.cs
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\obj\Debug\netcoreapp3.1\SendMessage.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\obj\Debug\netcoreapp3.1\SendMessage.Tests.csproj.CopyComplete
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\obj\Debug\netcoreapp3.1\SendMessage.Tests.dll
+C:\Users\nonto\Documents\Wonga Core\SendMessage\SendMessage.Tests\obj\Debug\netcoreapp3.1\SendMessage.Tests.pdb
